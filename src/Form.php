@@ -1,5 +1,5 @@
 <?php
-namespace Dottyfix\Tools\FormControls;
+namespace Dottyfix\FormControls;
 
 class Form implements \ArrayAccess {	/* TODO token CSRF, Captcha, protect password ? */
 	
