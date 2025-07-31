@@ -1,5 +1,5 @@
 <?php
-namespace Dottyfix\Tools\FormControls;
+namespace Dottyfix\FormControls;
 use AltchaOrg\Altcha\ChallengeOptions;
 use AltchaOrg\Altcha\Altcha;
 
