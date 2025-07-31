@@ -3,7 +3,7 @@
   "description": "Générateur de formulaire HTML consistant avec vérification côté serveur",
   "autoload": {
     "psr-4": {
-      "Dottyfix\\Tools\\FormControls\\": "src/"
+      "Dottyfix\\FormControls\\": "src/"
     }
   },
   "require-dev": {
